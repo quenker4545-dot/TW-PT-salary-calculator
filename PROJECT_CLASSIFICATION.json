@@ -1,0 +1,21 @@
+{
+  "schema": "repo-classification-v1",
+  "repository": "TW-PT-salary-calculator",
+  "visibility": "public",
+  "category": "04-productivity-tools",
+  "product": "Taiwan part-time wage take-home calculator",
+  "modules": [
+    "Streamlit salary and insurance estimate",
+    "Excel export",
+    "optional iOS WKWebView shell"
+  ],
+  "entrypoint": "app.py",
+  "topics_suggested": [
+    "salary-calculator",
+    "streamlit",
+    "taiwan",
+    "productivity"
+  ],
+  "github_topics_applied": false,
+  "status": "source code available; live deployments not rechecked"
+}
